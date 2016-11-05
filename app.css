@@ -1,0 +1,8 @@
+#landing {
+  background-image: url('images/header8.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 150px 0;
+  position: relative;
+  color: #fff;
+}
